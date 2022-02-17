@@ -1,5 +1,6 @@
 # Download aligned HLA gene sequences from IMGT website
 
+IMGT/HLA is the database of human MHC sequences or HLA (Human Leucocyte Antigen).
 This code will help you to download the aligned HLA gene sequences from IMGT website in a text file. Which can be imported in database tables to do further analysis.
 
 ## Packages Used
